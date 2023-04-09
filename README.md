@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @bennynnaji
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning PHP, LARAVEL, JS
-- 💞️ I’m looking to collaborate on any web related project
-- 📫 How to reach me nnajibenny@gmail.com or +2348103938317
+A FS web developer with keen interest in AI and Blockchain Techs
+- 
 
 <!---
 bennynnaji/bennynnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
